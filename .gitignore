@@ -1,0 +1,18 @@
+# Hidden system files
+.DS_Store
+
+# Hide idea folder
+.idea/
+
+# Help files
+docs/text/
+.iml
+
+# High size files
+
+
+# R files
+*.Rhistory
+
+# Matlab files
+*.asv
