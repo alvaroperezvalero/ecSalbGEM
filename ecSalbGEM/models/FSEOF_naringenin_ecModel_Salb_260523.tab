@@ -1,0 +1,52 @@
+Slope	rowID	Enzyme ID	Enzyme Name	Subsystems	Direction	Gr Rule
+1	791	4CL			0	
+2.8859	940	ACCOAC_EXP_7	acetyl-CoA carboxylase	;Lipid metabolism	0	XNR_4019
+1	1761	CHI			0	
+0.98912	1779	CHORM	chorismate mutase	;Amino acid metabolism	0	XNR_4859
+0.97908	1781	CHORS	chorismate synthase	;Amino acid metabolism	0	XNR_5355
+1	1782	CHS			0	
+4.2074	1857	CO2t_REV	CO2 transporter via diffusion (reversible)	;Membrane transport	0	s0001
+0.97908	2061	DDPA_EXP_1	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	;Amino acid metabolism	0	XNR_0595
+0.97908	2115	DHQS	3-dehydroquinate synthase	;Amino acid metabolism	0	XNR_5357
+0.97908	2116	DHQTi	3-dehydroquinate dehydratase, irreversible	;Amino acid metabolism	0	XNR_4909
+4.2074	2432	EX_co2_e	CO2 exchange	;Exchange	1	
+1	2532	EX_naringenin			0	
+1.17	2533	EX_nh4_e	Ammonia exchange	;Exchange	-1	
+0.66047	2953	GLUDyi	glutamate dehydrogenase (NADP, irreversible)	;Amino acid metabolism	0	XNR_3256
+2.8268	3252	HCO3E_EXP_3	HCO3 equilibration reaction	;Energy metabolism	0	XNR_4786
+1.17	4077	NH4t	ammonia reversible transport	;Inorganic Ion Transport and metabolism	0	XNR_1224
+0.82843	4660	PPDK_REV	Pyruvate,phosphate dikinase (reversible)	;Carbohydrate metabolism	0	XNR_4449
+0.99533	4670	PPND	prephenate dehydrogenase	;Amino acid metabolism	0	XNR_5061
+0.97908	4710	PSCVT	3-phosphoshikimate 1-carboxyvinyltransferase	;Amino acid metabolism	0	XNR_1588
+1.3226	4731	PSEUDO_ACCEPTOR_NADP	Pseudoreaction converting nadp to acceptor	;Biomass and maintenance functions	0	
+1.3226	4733	PSEUDO_ACCEPTOR_NAD_REV	Pseudoreaction converting nad to acceptor (reversible)	;Biomass and maintenance functions	0	
+1.3218	4734	PSEUDO_DONOR_NADH	Pseudoreaction converting nadh to donor	;Biomass and maintenance functions	0	
+1.3218	4737	PSEUDO_DONOR_NADPH_REV	Pseudoreaction converting nadph to donor (reversible)	;Biomass and maintenance functions	0	
+2.9971	4822	PYRS_EXP_1	pyruvate:ferredoxin oxidoreductase;pyruvate ferredoxin oxidoreductase;pyruvate-ferredoxin oxidoreductase;pyruvate synthase	;Carbohydrate metabolism	0	XNR_3672
+0.25928	5062	RPE_REV	ribulose 5-phosphate 3-epimerase (reversible)	;Carbohydrate metabolism	0	XNR_5386
+0.26106	5064	RPI_REV	ribose-5-phosphate isomerase (reversible)	;Carbohydrate metabolism	0	XNR_4316
+0.97908	5126	SHK3Dr	shikimate dehydrogenase	;Amino acid metabolism	0	XNR_5354
+0.97908	5127	SHKK	shikimate kinase	;Amino acid metabolism	0	XNR_5356
+1	5227	TAL			0	
+0.3599	5292	TKT1	transketolase	;Carbohydrate metabolism	0	XNR_4929
+0.99533	5365	TYRTA_REV_EXP_5	tyrosine transaminase (reversible)	;Amino acid metabolism	0	XNR_4967
+0.0013424	5646	usage_prot_WP_003947007.1	usage_prot_WP_003947007.1		0	XNR_5386
+0.00041401	5655	usage_prot_WP_003947037.1	usage_prot_WP_003947037.1		0	XNR_5357
+0.083394	5656	usage_prot_WP_003947038.1	usage_prot_WP_003947038.1		0	XNR_5356
+135.0394	5657	usage_prot_WP_003947039.1	usage_prot_WP_003947039.1		0	XNR_5355
+0.060338	5700	usage_prot_WP_003947325.1	usage_prot_WP_003947325.1		0	XNR_5061
+0.16679	5726	usage_prot_WP_003947452.1	usage_prot_WP_003947452.1		0	XNR_4929
+0.3126	5727	usage_prot_WP_003947453.1	usage_prot_WP_003947453.1		0	XNR_4928
+0.03665	5733	usage_prot_WP_003947471.1	usage_prot_WP_003947471.1		0	XNR_4909
+3.5613e-05	5756	usage_prot_WP_003947589.1	usage_prot_WP_003947589.1		0	XNR_4786
+0.26437	5824	usage_prot_WP_003947924.1	usage_prot_WP_003947924.1		0	XNR_4449
+1.6483	5895	usage_prot_WP_003948354.1	usage_prot_WP_003948354.1		0	XNR_4019
+0.63248	5950	usage_prot_WP_003948695.1	usage_prot_WP_003948695.1		0	XNR_3672
+0.0034958	6017	usage_prot_WP_003949116.1	usage_prot_WP_003949116.1		0	XNR_3256
+0.12819	6215	usage_prot_WP_003950754.1	usage_prot_WP_003950754.1		0	XNR_1588
+0.045237	6539	usage_prot_WP_008411127.1	usage_prot_WP_008411127.1		0	XNR_4014
+0.065441	6581	usage_prot_WP_010637173.1	usage_prot_WP_010637173.1		0	XNR_4859
+6.9694	6635	usage_prot_WP_015506852.1	usage_prot_WP_015506852.1		0	XNR_0595
+3.2177e-05	6777	usage_prot_WP_015507891.1	usage_prot_WP_015507891.1		0	XNR_4316
+0.0032452	6812	usage_prot_WP_015508069.1	usage_prot_WP_015508069.1		0	XNR_4967
+0.11455	6822	usage_prot_WP_015508167.1	usage_prot_WP_015508167.1		0	XNR_5354

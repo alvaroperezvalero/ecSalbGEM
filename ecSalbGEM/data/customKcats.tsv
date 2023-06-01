@@ -1,0 +1,5 @@
+proteins	genes	gene_name	kcat	rxns	notes	stoicho
+	XNR_1409		1.28	ACKr	Brenda_mah_EC2.7.2.1	
+	XNR_1408		32.7355	PTAr	DLKcat	
+	XNR_0640 or XNR_1593 or XNR_1945 or XNR_4128 or XNR_4489		65.9872	ALCD2s	DLKcat	
+			2.2670	ALCD2x	DLKcat	

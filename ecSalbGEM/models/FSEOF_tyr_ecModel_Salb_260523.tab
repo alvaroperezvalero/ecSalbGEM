@@ -1,0 +1,39 @@
+Slope	rowID	Enzyme ID	Enzyme Name	Subsystems	Direction	Gr Rule
+0.99024	1779	CHORM	chorismate mutase	;Amino acid metabolism	0	XNR_4859
+0.98122	1781	CHORS	chorismate synthase	;Amino acid metabolism	0	XNR_5355
+0.98122	2061	DDPA_EXP_1	3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	;Amino acid metabolism	0	XNR_0595
+0.98122	2115	DHQS	3-dehydroquinate synthase	;Amino acid metabolism	0	XNR_5357
+0.98122	2116	DHQTi	3-dehydroquinate dehydratase, irreversible	;Amino acid metabolism	0	XNR_4909
+0.25484	2533	EX_nh4_e	Ammonia exchange	;Exchange	-1	
+1	2574	EX_tyr__L_e	L-Tyrosine exchange	;Exchange	0	
+0.69517	2953	GLUDyi	glutamate dehydrogenase (NADP, irreversible)	;Amino acid metabolism	0	XNR_3256
+0.25484	4077	NH4t	ammonia reversible transport	;Inorganic Ion Transport and metabolism	0	XNR_1224
+0.99581	4670	PPND	prephenate dehydrogenase	;Amino acid metabolism	0	XNR_5061
+0.98122	4710	PSCVT	3-phosphoshikimate 1-carboxyvinyltransferase	;Amino acid metabolism	0	XNR_1588
+1.3584	4731	PSEUDO_ACCEPTOR_NADP	Pseudoreaction converting nadp to acceptor	;Biomass and maintenance functions	0	
+1.3584	4733	PSEUDO_ACCEPTOR_NAD_REV	Pseudoreaction converting nad to acceptor (reversible)	;Biomass and maintenance functions	0	
+1.3576	4734	PSEUDO_DONOR_NADH	Pseudoreaction converting nadh to donor	;Biomass and maintenance functions	0	
+1.3576	4737	PSEUDO_DONOR_NADPH_REV	Pseudoreaction converting nadph to donor (reversible)	;Biomass and maintenance functions	0	
+0.26685	5062	RPE_REV	ribulose 5-phosphate 3-epimerase (reversible)	;Carbohydrate metabolism	0	XNR_5386
+0.26845	5064	RPI_REV	ribose-5-phosphate isomerase (reversible)	;Carbohydrate metabolism	0	XNR_4316
+0.98122	5126	SHK3Dr	shikimate dehydrogenase	;Amino acid metabolism	0	XNR_5354
+0.98122	5127	SHKK	shikimate kinase	;Amino acid metabolism	0	XNR_5356
+0.35718	5292	TKT1	transketolase	;Carbohydrate metabolism	0	XNR_4929
+0.99581	5365	TYRTA_REV_EXP_5	tyrosine transaminase (reversible)	;Amino acid metabolism	0	XNR_4967
+1	5368	TYRt2r_REV	L-tyrosine reversible transport via proton symport (reversible)	;Membrane transport	0	XNR_1788
+0.0013816	5646	usage_prot_WP_003947007.1	usage_prot_WP_003947007.1		0	XNR_5386
+0.00041491	5655	usage_prot_WP_003947037.1	usage_prot_WP_003947037.1		0	XNR_5357
+0.083576	5656	usage_prot_WP_003947038.1	usage_prot_WP_003947038.1		0	XNR_5356
+135.3344	5657	usage_prot_WP_003947039.1	usage_prot_WP_003947039.1		0	XNR_5355
+0.060366	5700	usage_prot_WP_003947325.1	usage_prot_WP_003947325.1		0	XNR_5061
+0.16715	5726	usage_prot_WP_003947452.1	usage_prot_WP_003947452.1		0	XNR_4929
+0.31024	5727	usage_prot_WP_003947453.1	usage_prot_WP_003947453.1		0	XNR_4928
+0.03673	5733	usage_prot_WP_003947471.1	usage_prot_WP_003947471.1		0	XNR_4909
+0.0036795	6017	usage_prot_WP_003949116.1	usage_prot_WP_003949116.1		0	XNR_3256
+0.41654	6176	usage_prot_WP_003950560.1	usage_prot_WP_003950560.1		0	XNR_1788
+0.12847	6215	usage_prot_WP_003950754.1	usage_prot_WP_003950754.1		0	XNR_1588
+0.065515	6581	usage_prot_WP_010637173.1	usage_prot_WP_010637173.1		0	XNR_4859
+6.9846	6635	usage_prot_WP_015506852.1	usage_prot_WP_015506852.1		0	XNR_0595
+3.3087e-05	6777	usage_prot_WP_015507891.1	usage_prot_WP_015507891.1		0	XNR_4316
+0.0032507	6812	usage_prot_WP_015508069.1	usage_prot_WP_015508069.1		0	XNR_4967
+0.1148	6822	usage_prot_WP_015508167.1	usage_prot_WP_015508167.1		0	XNR_5354

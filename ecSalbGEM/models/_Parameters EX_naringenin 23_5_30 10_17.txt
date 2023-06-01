@@ -1,0 +1,32 @@
+                 solver: 'gurobi'
+              timelimit: 10000
+           maxknockouts: 10
+             biomassrxn: 'BIOMASS_SALB'
+            deletegenes: 1
+              starttime: 23_5_30 10_17
+                    tol: 1.0000e-08
+                tiltval: 1.0000e-04
+               shiftval: 1.0000e-05
+          skipreduction: 0
+              mingrowth: 1.0000e-03
+                minprod: 0.0100
+       removeredundancy: 1
+            saveresults: 1
+         ignorelistrxns: {}
+        ignorelistgenes: {}
+              dontkoess: 1
+        onlykogeneassoc: 1
+           mutationrate: 1
+                popsize: 200
+               genlimit: 10000
+           fitnesslimit: Inf
+      spreadchangelimit: 1.0000e-04
+          stallgenlimit: 10000
+           plotinterval: 1
+    newredundantremoval: 1
+       maxreductionsize: 15
+              modelname: ''
+         targetreaction: 'EX_naringenin'
+             timerunfor: 02:57:56
+               validkos: {812×1 cell}
+
