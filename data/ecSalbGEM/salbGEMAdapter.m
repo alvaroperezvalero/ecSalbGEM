@@ -6,7 +6,7 @@ classdef salbGEMAdapter < ModelAdapter
             % Directory where all model-specific files and scripts are kept.
             % Is assumed to follow the GECKO-defined folder structure. The
             % code below refers to userData/ecYeastGEM in the GECKO path.
-            obj.params.path = fullfile('C:/Users/apvmo/OneDrive/Escritorio/Estancia_CHALMERS/ec-salb');
+            obj.params.path = fullfile('C:/Users/apvmo/OneDrive/Escritorio/Estancia_CHALMERS/ec-salb/data/ecSalbGEM');
 
 			% Path to the conventional GEM that this ecModel will be based on.
 			obj.params.convGEM = fullfile(obj.params.path,'models','Salb-GEM-naringenin.xml');
